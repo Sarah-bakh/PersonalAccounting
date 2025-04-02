@@ -1,0 +1,15 @@
+C:\Users\Notebook\source\repos\Accounting\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Notebook\source\repos\Accounting\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Notebook\source\repos\Accounting\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Notebook\source\repos\Accounting\ConsoleApp\bin\Debug\Accounting.DataLayer.dll
+C:\Users\Notebook\source\repos\Accounting\ConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\Notebook\source\repos\Accounting\ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Notebook\source\repos\Accounting\ConsoleApp\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\Notebook\source\repos\Accounting\ConsoleApp\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\Notebook\source\repos\Accounting\ConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\Notebook\source\repos\Accounting\ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Notebook\source\repos\Accounting\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Notebook\source\repos\Accounting\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\Accounting\ConsoleApp\obj\Debug\ConsoleApp.csproj.Up2Date
+C:\Users\Notebook\source\repos\Accounting\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Notebook\source\repos\Accounting\ConsoleApp\obj\Debug\ConsoleApp.pdb

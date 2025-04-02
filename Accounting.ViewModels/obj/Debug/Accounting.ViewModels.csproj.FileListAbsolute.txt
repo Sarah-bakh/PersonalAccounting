@@ -1,0 +1,12 @@
+C:\Users\Notebook\source\repos\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll.config
+C:\Users\Notebook\source\repos\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+C:\Users\Notebook\source\repos\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\Notebook\source\repos\Accounting\Accounting.ViewModels\bin\Debug\EntityFramework.dll
+C:\Users\Notebook\source\repos\Accounting\Accounting.ViewModels\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Notebook\source\repos\Accounting\Accounting.ViewModels\bin\Debug\EntityFramework.xml
+C:\Users\Notebook\source\repos\Accounting\Accounting.ViewModels\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Notebook\source\repos\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Notebook\source\repos\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\Accounting\Accounting.ViewModels\obj\Debug\Accounti.5A534B3D.Up2Date
+C:\Users\Notebook\source\repos\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+C:\Users\Notebook\source\repos\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
